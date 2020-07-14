@@ -1,0 +1,17 @@
+Note: Please put this package into the current workspace
+
+Package Information:
+
+Subscribe: 
+    Topic 1:
+        Name: framework_in_global
+        Type: geometry_msgs::Point
+    Topic 2:
+        Name: robot_in_global
+        Type: geometry_msgs::Pose2D
+
+Publish:
+    Topic 1:
+        Name: measured_target_position
+        Type: geometry_msgs::Point
+
